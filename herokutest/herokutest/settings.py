@@ -49,7 +49,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'herokutest.urls'
+ROOT_URLCONF = 'herokutest.herokutest.urls'
 
 TEMPLATES = [
     {

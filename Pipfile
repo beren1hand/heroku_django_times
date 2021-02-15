@@ -9,6 +9,7 @@ verify_ssl = true
 django = "*"
 django-heroku = "*"
 psycopg2 = "==2.7.5"
+gunicorn = "*"
 
 [requires]
 python_version = "3.7"
